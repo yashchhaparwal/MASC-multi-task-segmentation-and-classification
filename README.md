@@ -158,22 +158,6 @@ The dataset information is read from a .JSON file, creating a Decathlon style da
 ```
 
 
-[1] Oktay, Ozan, et al. "Attention U-Net: Learning Where to Look for the Pancreas." Medical Imaging with Deep Learning.
 
-[2] Zhang, Zhengxin, Qingjie Liu, and Yunhong Wang. "Road extraction by deep residual u-net." IEEE Geoscience and Remote Sensing Letters 15.5 (2018): 749-753.
-
-# License
-The SVRTK Fetal MRI Segmentation package is distributed under the terms of the Apache License Version 2. The license enables usage of SVRTK in both commercial and non-commercial applications, without restrictions on the licensing applied to the combined work.
-
-# Citation and acknowledgements
-In case you found SVRTK Fetal MRI Segmentation useful please give appropriate credit to the software by providing the corresponding link to our github repository:
-
-SVRTK toolbox for fetal cardiac MRI segmentation and classification: https://github.com/SVRTK/MASC-multi-task-segmentation-and-classification/.
-
-This is an extension of our workshop paper: 
-
-Ramirez Gilliland, P., Uus, A., van Poppel, M.P., Grigorescu, I., Steinweg, J.K., Lloyd, D.F., Pushparajah, K., King, A.P. and Deprez, M., 2022, September. Automated Multi-class Fetal Cardiac Vessel Segmentation in Aortic Arch Anomalies Using T2-Weighted 3D Fetal MRI. *In Perinatal, Preterm and Paediatric Image Analysis: 7th International Workshop, PIPPI 2022, Held in Conjunction with MICCAI 2022, Singapore, September 18, 2022, Proceedings* (pp. 82-93). Cham: Springer Nature Switzerland.
-
-The full paper version is submitted and will be added soon.
 
 
